@@ -1,0 +1,2 @@
+la solución quedó dentro de la CARPETA 
+ToDoListApi: ToDoListApi.sln
